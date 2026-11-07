@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Malachis_Menu_Reborn</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="0Harmony" />
+    <Reference Include="Assembly-CSharp" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="BepInEx" />
+    <Reference Include="UnityEngine.IMGUIModule" />
+    <Reference Include="PhotonRealtime" />
+    <Reference Include="System.Core" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="Photon3Unity3D" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="PhotonUnityNetworking" />
+    <Reference Include="PhotonVoice.API" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="Unity.Cinemachine" />
+    <Reference Include="Modio" />
+    <Reference Include="SteamVR_Actions" />
+    <Reference Include="SteamVR" />
+    <Reference Include="UnityEngine.XRModule" />
+    <Reference Include="Unity.InputSystem" />
+    <Reference Include="PhotonVoice.PUN" />
+    <Reference Include="PhotonVoice" />
+    <Reference Include="Unity.Localization" />
+    <Reference Include="UnityEngine.AudioModule" />
+  </ItemGroup>
+</Project>
